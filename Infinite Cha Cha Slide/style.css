@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Oswald;
+}
+
+.text{
+    color: white;
+    font-size: : 50;
+    font-family: Oswald;
+}
+
+#p{
+    width: 30%;
+    height: 60px;
+    background-color: orange;
+    font-size: 200%;
+    color: white;
+    border-radius: 10px;
+}
